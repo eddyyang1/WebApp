@@ -18,9 +18,9 @@ body{
     list-style: none;
     color: #fff;
 }
-.menu-bar li :last-child{
-    color: black;
-}
+/*.menu-bar li :last-child{
+    color: rgb(7, 211, 211);
+}*/
 .menu-bar ul li{
     width: 120px;
     margin: 15px;
